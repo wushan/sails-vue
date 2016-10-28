@@ -10,7 +10,8 @@
     "rc": "1.0.1",
     "sails": "~0.12.3",
     "sails-disk": "~0.10.9",
-    "sails-hook-vuewebpack": "^1.0.0"
+    "sails-hook-vuewebpack": "git+https://github.com/wushan/sails-hook-vuewebpack.git",
+    "superagent": "^2.3.0"
   },
   "scripts": {
     "debug": "node debug app.js",
